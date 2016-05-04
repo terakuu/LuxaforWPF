@@ -11,7 +11,7 @@ Listen File button:
 - starts to listen the file again (if you set color with color button, you need to press Listen File  button if you want to start listening changes in the file again)
 -changes in the file change color/ blinking of ellipse and Luxafor - device.
 
-Turn off button
+Turn off button:
 -Set Luxafor led color to 0,0,0
 
 File:
@@ -23,7 +23,7 @@ Select File:
 -Select file  to listen for changes
 -application remembers your selection,  so no need to select the file again and again when starting the application next time.
 
-Syntax for txt-file:
+Syntax for text file:
 r,g,b, speed, repeatCount
 examples:
 set color:
