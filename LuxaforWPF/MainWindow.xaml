@@ -22,7 +22,7 @@
             </ColorAnimationUsingKeyFrames>
         </Storyboard>
     </Window.Resources>
-    <Grid Name="mainGrid" Margin="0,0,-32,-19" >
+    <Grid Name="mainGrid">
         <Grid.Background>
             <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                 <GradientStop Color="Black"/>
