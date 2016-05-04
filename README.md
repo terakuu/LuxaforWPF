@@ -8,8 +8,8 @@ Color buttons (buttons under Set Color):
 - set color for the led and the ellipse, and stops listening the file.
 
 Listen File button:
-- starts to listen the file again (if you set color with color button, you need to press Listen File  button if you want to start listening changes in the file again)
--changes in the file change color/ blinking of ellipse and Luxafor - device.
+- starts to listen the file again (if you set color with color button, you need to press Listen File button if you want to start listening changes in the file again)
+-changes in the file change color / blinking of ellipse and Luxafordevice.
 
 Turn off button:
 -Set Luxafor led color to 0,0,0
